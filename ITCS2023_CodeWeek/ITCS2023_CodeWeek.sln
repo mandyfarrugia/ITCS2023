@@ -5,6 +5,8 @@ VisualStudioVersion = 25.0.1706.4
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITCS2023_CodeWeek", "ITCS2023_CodeWeek\ITCS2023_CodeWeek.csproj", "{7069064A-D374-4FDC-8C7F-8DF41E108ED6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variables", "Variables\Variables.csproj", "{3EF319BF-065F-482B-9A34-39E45CC94AE7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{7069064A-D374-4FDC-8C7F-8DF41E108ED6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7069064A-D374-4FDC-8C7F-8DF41E108ED6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7069064A-D374-4FDC-8C7F-8DF41E108ED6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EF319BF-065F-482B-9A34-39E45CC94AE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EF319BF-065F-482B-9A34-39E45CC94AE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EF319BF-065F-482B-9A34-39E45CC94AE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EF319BF-065F-482B-9A34-39E45CC94AE7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
