@@ -12,7 +12,7 @@
 
             /* \t - Represents a tab character.
              * \n - Represents a new line character to skip a line.
-             * \\ - Represents a backslash character.
+             * \\ - Represents a backslash character. (You can alternatively add an @ before the opening double quote, this is known as a verbatim string literal)
              * 
              * These are known as escape characters and can be used to format your output. */
             Console.WriteLine("Team\tGoals");
