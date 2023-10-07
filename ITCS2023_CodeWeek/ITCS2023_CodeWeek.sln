@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITCS2023_CodeWeek", "ITCS20
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variables", "Variables\Variables.csproj", "{3EF319BF-065F-482B-9A34-39E45CC94AE7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlStatements", "ControlStatements\ControlStatements.csproj", "{6E000898-04E0-4233-B408-C280608D63E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathematicalCalculations", "MathematicalCalculations\MathematicalCalculations.csproj", "{D88C1F01-B33D-41B1-928A-78ACE4AE3573}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{3EF319BF-065F-482B-9A34-39E45CC94AE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3EF319BF-065F-482B-9A34-39E45CC94AE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3EF319BF-065F-482B-9A34-39E45CC94AE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E000898-04E0-4233-B408-C280608D63E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E000898-04E0-4233-B408-C280608D63E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E000898-04E0-4233-B408-C280608D63E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E000898-04E0-4233-B408-C280608D63E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D88C1F01-B33D-41B1-928A-78ACE4AE3573}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D88C1F01-B33D-41B1-928A-78ACE4AE3573}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D88C1F01-B33D-41B1-928A-78ACE4AE3573}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D88C1F01-B33D-41B1-928A-78ACE4AE3573}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

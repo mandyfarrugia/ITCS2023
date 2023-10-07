@@ -1,4 +1,4 @@
-﻿namespace ITCS2023_CodeWeek
+﻿namespace Variables
 {
     public class Program
     {
